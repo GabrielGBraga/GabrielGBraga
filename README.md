@@ -19,5 +19,5 @@ Sou um entusiasta de tecnologia de Belo Horizonte, MG, atualmente em transição
 
 ## 📫 Como me encontrar
 - 📧 [ggoesbraga@gmail.com](mailto:ggoesbraga@gmail.com)
-- 🎓 [ggb-13@ufmg.br](mailto:ggb-13@ufmg.br)
+- 📞 [+55 (31) 99226-7350](tel:+5531992267350)
 - 📍 Belo Horizonte, MG
