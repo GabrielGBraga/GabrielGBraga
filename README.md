@@ -15,10 +15,6 @@ Sou um entusiasta de tecnologia de Belo Horizonte, MG, atualmente em transição
 - **Backend/DB:** Supabase, Docker.
 - **Outros:** MATLAB, Python, LaTeX.
 
-## 📊 Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=radical)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=radical)
-
 ---
 
 ## 📫 Como me encontrar
