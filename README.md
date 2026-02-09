@@ -1,10 +1,27 @@
-- 👋 Hi, I’m @GabrielGBraga
-- 👀 I’m interested in Mobile Development
-- 🌱 I’m currently learning React Native
-- 📫 How to reach me ggoesbraga@gmail.com
-- ⚡ Fun fact: The first computer game was created in 1961.
+# Olá, eu sou o Gabriel Góes Braga! 👋
 
-<!---
-GabrielGBraga/GabrielGBraga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Desenvolvedor Mobile | Técnico em Automação Industrial | Estudante de Engenharia de Computação
+
+Sou um entusiasta de tecnologia de Belo Horizonte, MG, atualmente em transição da área de **Automação Industrial (COLTEC/UFMG)** para a **Engenharia de Computação**. Meu foco principal é o desenvolvimento mobile.
+
+---
+
+## 🛠️ No que estou trabalhando agora
+- **Mise:** Um aplicativo mobile para gestão de receitas, desenvolvido com **Expo**, **React Native Paper** e **Supabase**.
+- **Auto-hospedagem:** Configurando servidores e bancos de dados via **Docker** e ferramentas de túnel como **Zrok**.
+
+## 🚀 Tecnologias e Ferramentas
+- **Frontend/Mobile:** React Native, Expo, JavaScript/TypeScript.
+- **Backend/DB:** Supabase, Docker.
+- **Outros:** MATLAB, Python, LaTeX.
+
+## 📊 Estatísticas do GitHub
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=radical)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=radical)
+
+---
+
+## 📫 Como me encontrar
+- 📧 [ggoesbraga@gmail.com](mailto:ggoesbraga@gmail.com)
+- 🎓 [ggb-13@ufmg.br](mailto:ggb-13@ufmg.br)
+- 📍 Belo Horizonte, MG
